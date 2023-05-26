@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding:0;
+     
+}
+ .main{
+    width:100%;
+    background:linear-gradient(to top, rgba(0,0,0,0,5)50%,rgba(0,0,0,0)50%), url(https://export-download.canva.com/dIjyY/DAFhNNdIjyY/1/0/0001-45927546114.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230425%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230425T192736Z&X-Amz-Expires=66914&X-Amz-Signature=5c4854e9cb92c26f389f35b923c9199771d9f3275616c8633f66b18e2d534289&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Untitled%2520design.jpg&response-expires=Wed%2C%2026%20Apr%202023%2014%3A02%3A50%20GMT
+    background-position:center;
+    background-size:cover;
+    height: 109vh
+
+ }
+  .navbar{
+    width:120px;
+    height: 75px;
+    margin: auto;
+  }
+
+  .icon{
+    width:200px;
+    float:left;
+    height:70px;
+  }
+  .logo{
+    color: #ff7200;
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 20px;
+    float: left;
+    padding-top: 10px;
+  }
+  .menu{
+    width:400px;
+    float:left;
+    height:70px;
+  }
+
+  ul{
+    float:
+  }
